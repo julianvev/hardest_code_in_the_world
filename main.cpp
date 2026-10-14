@@ -1,6 +1,5 @@
 #include <iostream>
-
 int main() {
-    std::cout << "hello world\n";
-    return 0;
+std::cout << "if you use python you are not a coder because you are not a codeer hhhhhaaaaaaaaaaaaa";
+
 }
